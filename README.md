@@ -1,4 +1,5 @@
 I am a Linux Kernel developer, upstream Linux Kernel contributor and maintainer of:
+- [Devicetree bindings](https://git.kernel.org/pub/scm/linux/kernel/git/robh/linux.git/tree/MAINTAINERS?h=dt/next#n14384),
 - [Memory controller drivers](https://www.kernel.org/doc/html/latest/process/maintainers.html#memory-controller-drivers),
 - [NFC subsystem and drivers](https://www.kernel.org/doc/html/latest/process/maintainers.html#nfc-subsystem),
 - [Samsung S3C/Exynos ARM and ARM64 architectures](https://www.kernel.org/doc/html/latest/process/maintainers.html#arm-samsung-s3c-s5p-and-exynos-arm-architectures),
