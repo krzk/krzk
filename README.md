@@ -1,7 +1,6 @@
 I am a Linux Kernel developer, upstream Linux Kernel contributor and maintainer of:
 - [Devicetree bindings](https://www.kernel.org/doc/html/latest/process/maintainers.html#open-firmware-and-flattened-device-tree-bindings),
-- [Memory controller drivers](https://www.kernel.org/doc/html/latest/process/maintainers.html#memory-controller-drivers),
-- [NFC subsystem and drivers](https://www.kernel.org/doc/html/latest/process/maintainers.html#nfc-subsystem),
+- [Memory controller drivers](https://www.kernel.org/doc/html/latest/process/maintainers.html#memory-controller-drivers), [NFC subsystem and drivers](https://www.kernel.org/doc/html/latest/process/maintainers.html#nfc-subsystem), [1-Wire subsystem](https://www.kernel.org/doc/html/latest/process/maintainers.html#w1-dallas-s-1-wire-bus)
 - [Samsung S3C/Exynos ARM and ARM64 architectures](https://www.kernel.org/doc/html/latest/process/maintainers.html#arm-samsung-s3c-s5p-and-exynos-arm-architectures),
 - Clocks, pinctrl, ASoC, PMIC and MUIC drivers for Samsung SoCs and Exynos based boards,
 - NFC neard daemon (the user-space counterpart of Linux NFC user-stack).
